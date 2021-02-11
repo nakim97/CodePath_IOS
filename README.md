@@ -33,11 +33,7 @@ https://imgur.com/a/7piElC3
 
 GIF created with [Recordit](http://www.recordit.co).
 
-## Notes
 
-Describe any challenges encountered while building the app.
-
-As it was my first time working with Xcode and Swift, I found myself struggling learning the interface. However, I found the guide/youtube tutorial to be useful and saw some similarities between Swift/Xcode and CSS/JS, and was able to grasp a better understanding of the topics. While a lot of the features are still foreign, I look forward to having the opportunity to get a better understanding of the interface and be able to implement all these features towards future projects!
 
 ## License
 
