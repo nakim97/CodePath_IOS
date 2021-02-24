@@ -1,4 +1,4 @@
-# Pre-work - TIP JAR 
+# TIP JAR 
 
 TIP JAR is a tip calculator application for iOS.
 
@@ -29,9 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/a/7piElC3
+![TIP Jar Calculator Demo](tip-demo.gif)
 
-GIF created with [Recordit](http://www.recordit.co).
+* GIF created with [Recordit](http://www.recordit.co) // https://imgur.com/a/7piElC3
 
 
 
